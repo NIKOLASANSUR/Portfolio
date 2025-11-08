@@ -45,8 +45,6 @@ body {
   --text: #ffffff;
 }
 
-
-
 #cabecalho {
     display: flex;
     align-items: center;
@@ -1268,5 +1266,4 @@ h2 {
     .footer-copyright {
         font-size: 14px;
     }
-
 }
