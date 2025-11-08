@@ -45,11 +45,7 @@ body {
   --text: #ffffff;
 }
 
-body {
-    background-color: var(--bg-color);
-    color: var(--text-color);
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
+
 
 #cabecalho {
     display: flex;
@@ -1272,4 +1268,5 @@ h2 {
     .footer-copyright {
         font-size: 14px;
     }
+
 }
